@@ -1,0 +1,160 @@
+html, body {
+   /* width: 50%;*/
+    /*margin: 0 auto;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+.day{
+float:left;
+background-color:pink;
+margin:10px;
+padding:7px;
+border-radius:12px;
+}
+.container {
+    width:100%;
+    max-width:290px;
+    display:flex;
+    /*flex-direction:row;
+    justify-content:space-around;
+    flex-flow:wrap;*/
+}
+
+#inputField1 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo1 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#inputField2 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo2 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#inputField3 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo3 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#inputField4 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo4 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#inputField5 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo5 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+
+
+#inputField6 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo6 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#inputField7 {
+    width: 180px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo7 {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
+
+
